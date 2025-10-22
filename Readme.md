@@ -3,7 +3,7 @@
 Bu, Node.js ile oluşturulmuş bir CLI uygulamasıdır. Kullanıcıların farklı node kurulumlarını ve yapılandırmalarını listeleyip, istedikleri node'leri kurmalarına olanak tanır.
 
 ![Çalıştırma](/assets/preview-1.png)
-
+s
 ![Aktif Nodelar](/assets/preview-2.png)
 
 ## Başlarken
